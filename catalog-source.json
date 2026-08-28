@@ -1,0 +1,22 @@
+{
+  "manifestVersion": "1.0.0",
+  "providerId": "cn.qijun.dsh-catalog",
+  "name": "我的 DSH 插件源",
+  "description": "个人/团队精选插件聚合源",
+  "homepage": "https://a645387612.github.io/dsh-catalog/",
+  "attribution": {
+    "name": "Jxcha",
+    "url": "https://github.com/a645387612"
+  },
+  "transport": {
+    "kind": "https-json",
+    "endpoint": "https://a645387612.github.io/dsh-catalog/v1/plugins",
+    "method": "GET"
+  },
+  "query": {
+    "supported": ["q", "category", "cursor", "limit"],
+    "defaultLimit": 50,
+    "maxLimit": 200,
+    "sorts": []
+  }
+}
