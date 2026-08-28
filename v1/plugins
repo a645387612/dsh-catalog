@@ -1,0 +1,71 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-08-28T14:42:00Z",
+  "items": [
+    {
+      "id": "dsh-better-sidebar",
+      "name": "dsh-better-sidebar",
+      "displayName": "DSH better-sidebar",
+      "summary": "侧边栏完整工作台：文件渲染编辑、终端、Git 与子代理",
+      "package": { "registry": "npm", "name": "dsh-better-sidebar" },
+      "categories": ["ui"]
+    },
+    {
+      "id": "modlens",
+      "name": "@liustack/modlens",
+      "displayName": "ModLens",
+      "summary": "为纯文本模型架起视觉桥梁：粘贴图片输出结构化 JSON 证据",
+      "package": { "registry": "npm", "name": "@liustack/modlens" },
+      "categories": ["vision"]
+    },
+    {
+      "id": "dsh-memory-plugin",
+      "name": "@openviking/dsh-memory-plugin",
+      "displayName": "DSH Memory Plugin",
+      "summary": "OpenViking 记忆与上下文插件：自动召回与画像注入",
+      "package": { "registry": "npm", "name": "@openviking/dsh-memory-plugin" },
+      "categories": ["memory"]
+    },
+    {
+      "id": "dsh-at-file",
+      "name": "dsh-at-file",
+      "displayName": "DSH At File",
+      "summary": "Codex 风格 @ 引用工作区文件（489★ 爆款）",
+      "repository": { "url": "https://github.com/FSMargoo/dsh-at-file" },
+      "categories": ["tools"]
+    },
+    {
+      "id": "dsh-docs-panel",
+      "name": "dsh-docs-panel",
+      "displayName": "DSH Docs Panel",
+      "summary": "侧边栏全局 Markdown 文档：任何工作区随时可读",
+      "package": { "registry": "npm", "name": "dsh-docs-panel" },
+      "categories": ["ui", "docs"]
+    },
+    {
+      "id": "dsh-flowglass",
+      "name": "dsh-flowglass",
+      "displayName": "DSH FlowGlass",
+      "summary": "实时会话流程图：三列泳道展示用户、助手与工具调用",
+      "package": { "registry": "npm", "name": "dsh-flowglass" },
+      "categories": ["ui"]
+    },
+    {
+      "id": "dsh-im",
+      "name": "@xmanrui/dsh-im",
+      "displayName": "DSH IM",
+      "summary": "微信/飞书 IM 通道接入",
+      "package": { "registry": "npm", "name": "@xmanrui/dsh-im" },
+      "categories": ["notify"]
+    },
+    {
+      "id": "dsh-video-preview",
+      "name": "dsh-video-preview",
+      "displayName": "DSH Video Preview",
+      "summary": "better-sidebar 视频预览：mp4/webm/mov/mkv/avi",
+      "package": { "registry": "npm", "name": "dsh-video-preview" },
+      "categories": ["ui"]
+    }
+  ],
+  "page": {}
+}
