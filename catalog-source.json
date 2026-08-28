@@ -3,14 +3,14 @@
   "providerId": "cn.qijun.dsh-catalog",
   "name": "我的 DSH 插件源",
   "description": "个人/团队精选插件聚合源",
-  "homepage": "https://a645387612.github.io/dsh-catalog/",
+  "homepage": "https://dsh-catalog.pages.dev/",
   "attribution": {
     "name": "Jxcha",
     "url": "https://github.com/a645387612"
   },
   "transport": {
     "kind": "https-json",
-    "endpoint": "https://a645387612.github.io/dsh-catalog/v1/plugins",
+    "endpoint": "https://dsh-catalog.pages.dev/v1/plugins",
     "method": "GET"
   },
   "query": {
