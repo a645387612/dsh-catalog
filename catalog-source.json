@@ -2,7 +2,7 @@
   "manifestVersion": "1.0.0",
   "providerId": "cn.qijun.dsh-catalog",
   "name": "我的 DSH 插件源",
-  "description": "个人/团队精选插件聚合源",
+  "description": "个人/团队精选插件聚合源（100 个 star 排序精选）",
   "homepage": "https://dsh-catalog.pages.dev/",
   "attribution": {
     "name": "Jxcha",
@@ -14,9 +14,14 @@
     "method": "GET"
   },
   "query": {
-    "supported": ["q", "category", "cursor", "limit"],
-    "defaultLimit": 200,
-    "maxLimit": 200,
+    "supported": [
+      "q",
+      "category",
+      "cursor",
+      "limit"
+    ],
+    "defaultLimit": 100,
+    "maxLimit": 100,
     "sorts": []
   }
 }
